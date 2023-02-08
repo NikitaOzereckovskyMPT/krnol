@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "krnol", "krnol\krnol.csproj", "{DC1D1D64-9E0A-46BD-94C7-E4B55ABB8F94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1D1D64-9E0A-46BD-94C7-E4B55ABB8F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1D1D64-9E0A-46BD-94C7-E4B55ABB8F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1D1D64-9E0A-46BD-94C7-E4B55ABB8F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1D1D64-9E0A-46BD-94C7-E4B55ABB8F94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0B476A-57CE-49EA-B953-1C0CDB46D634}
+	EndGlobalSection
+EndGlobal
